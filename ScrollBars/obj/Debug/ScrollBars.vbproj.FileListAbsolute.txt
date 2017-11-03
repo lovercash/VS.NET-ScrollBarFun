@@ -1,0 +1,22 @@
+C:\Users\leigh\AppData\Local\Temporary Projects\ScrollBars\bin\Debug\ScrollBars.exe.config
+C:\Users\leigh\AppData\Local\Temporary Projects\ScrollBars\bin\Debug\ScrollBars.exe
+C:\Users\leigh\AppData\Local\Temporary Projects\ScrollBars\bin\Debug\ScrollBars.pdb
+C:\Users\leigh\AppData\Local\Temporary Projects\ScrollBars\bin\Debug\ScrollBars.xml
+C:\Users\leigh\AppData\Local\Temporary Projects\ScrollBars\obj\Debug\ScrollBars.vbprojResolveAssemblyReference.cache
+C:\Users\leigh\AppData\Local\Temporary Projects\ScrollBars\obj\Debug\ScrollBars.Form1.resources
+C:\Users\leigh\AppData\Local\Temporary Projects\ScrollBars\obj\Debug\ScrollBars.Resources.resources
+C:\Users\leigh\AppData\Local\Temporary Projects\ScrollBars\obj\Debug\ScrollBars.vbproj.GenerateResource.Cache
+C:\Users\leigh\AppData\Local\Temporary Projects\ScrollBars\obj\Debug\ScrollBars.exe
+C:\Users\leigh\AppData\Local\Temporary Projects\ScrollBars\obj\Debug\ScrollBars.xml
+C:\Users\leigh\AppData\Local\Temporary Projects\ScrollBars\obj\Debug\ScrollBars.pdb
+K:\Development\Visual Studio\VB\Learning VB\My Projects\ScrollBars\ScrollBars\obj\Debug\ScrollBars.vbprojResolveAssemblyReference.cache
+K:\Development\Visual Studio\VB\Learning VB\My Projects\ScrollBars\ScrollBars\obj\Debug\ScrollBars.Form1.resources
+K:\Development\Visual Studio\VB\Learning VB\My Projects\ScrollBars\ScrollBars\obj\Debug\ScrollBars.Resources.resources
+K:\Development\Visual Studio\VB\Learning VB\My Projects\ScrollBars\ScrollBars\obj\Debug\ScrollBars.vbproj.GenerateResource.Cache
+K:\Development\Visual Studio\VB\Learning VB\My Projects\ScrollBars\ScrollBars\obj\Debug\ScrollBars.exe
+K:\Development\Visual Studio\VB\Learning VB\My Projects\ScrollBars\ScrollBars\obj\Debug\ScrollBars.xml
+K:\Development\Visual Studio\VB\Learning VB\My Projects\ScrollBars\ScrollBars\obj\Debug\ScrollBars.pdb
+K:\Development\Visual Studio\VB\Learning VB\My Projects\ScrollBars\ScrollBars\bin\Debug\ScrollBars.exe.config
+K:\Development\Visual Studio\VB\Learning VB\My Projects\ScrollBars\ScrollBars\bin\Debug\ScrollBars.exe
+K:\Development\Visual Studio\VB\Learning VB\My Projects\ScrollBars\ScrollBars\bin\Debug\ScrollBars.pdb
+K:\Development\Visual Studio\VB\Learning VB\My Projects\ScrollBars\ScrollBars\bin\Debug\ScrollBars.xml
